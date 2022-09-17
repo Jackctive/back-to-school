@@ -1301,7 +1301,7 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
         overflow-y: auto !important;
         overflow-x: hidden !important;
         display: block;
-        background: #fff;
+        background: rgb(255, 255, 255);
         z-index: 99;
         width: 280px;
         height: 100% !important;
